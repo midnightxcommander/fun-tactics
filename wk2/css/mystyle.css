@@ -1,0 +1,110 @@
+header, #container, footer {
+	widht: 1000px
+	padding: 20px;
+	
+}
+
+	title{
+		color: white;
+	}
+	
+	body {
+		background-color: black;
+		color: lightgrey;
+	}
+	
+	li {   
+		
+		display: table;
+		text-decoration: none;
+		color: gray;
+		
+	}
+	
+	#container {
+		
+	background: url("/wk2/css/images/netflixbackground.jpg") no-repeat right;
+	height: 1000px;
+	}
+	#container h1  {
+		margin: 25 auto;
+		font-size: 50px;
+		text-align: center;
+		color: white;
+		
+	}
+	#container h2 {
+		text-align: center;
+		color: white;
+		font-size: 35px;
+	}
+	#container h3 {
+		text-align: center;
+		color: white;
+		font-size: 25px;
+	
+	}
+	
+#story_header {
+		
+		margin: 25 auto;
+		text-align: right;
+		font-color: red;
+		text-decoration: none;
+		font-size: 30px;
+	}
+	#logo {
+		margin: 25 auto;
+		text-align: left;
+		font-color: red;
+		font-size: 35px;
+	}
+	a {
+		text-decoration: none;
+		color: gray;
+	}
+	
+	footer {
+		color: gray;
+		text-decoration: none;
+		
+	}
+	
+	questions {
+		margin: 25 auto;
+		text-align: left;
+		color: gray;
+		text_decoration: none;
+	}
+	
+	
+	#other_questions {
+		color: gray;
+		text-decoration: none;
+		display: top;
+	}
+	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
