@@ -1,93 +1,84 @@
 header, #container, footer {
-	widht: 1000px
-	padding: 20px;
+	width: 1000px;
+	padding: 25px 25px;
 	
 }
 
-	title{
+	#title{
 		color: white;
 	}
-	
-	body {
-		background-color: black;
-		color: lightgrey;
-	}
+
 	
 	li {   
 		
 		display: table;
 		text-decoration: none;
-		color: gray;
+		color: lightgrey;
 		
 	}
 	
 	#container {
 		
-	background: url("/wk2/css/images/netflixbackground.jpg") no-repeat right;
-	height: 1000px;
+	background-image: url("/wk2/css/images/netflixbackground.jpg") 
+
+	
+
 	}
+
 	#container h1  {
-		margin: 25 auto;
+		margin: 0;
 		font-size: 50px;
 		text-align: center;
 		color: white;
+		padding: 0;
 		
 	}
-	#container h2 {
-		text-align: center;
-		color: white;
-		font-size: 35px;
-	}
-	#container h3 {
-		text-align: center;
-		color: white;
-		font-size: 25px;
-	
-	}
-	
-#story_header {
+		#container h2 {
+			margin: 0px 6px;
+			text-align: center;
+			color: white;
+			font-size: 35px;
+			padding: 0px;
+		}
+		#container h3 {
+			margin: 0;
+			text-align: center;
+			color: white;
+			font-size: 5px;
+			padding: 0;
+		}
+ #story_header{
+	color: red;
+	margin: 8px 0px 0px;
+	text-align: right;
+	font-size: 55px;
+}
 		
-		margin: 25 auto;
-		text-align: right;
-		font-color: red;
-		text-decoration: none;
-		font-size: 30px;
-	}
+	
 	#logo {
-		margin: 25 auto;
+		color: red;
+		margin: auto;
 		text-align: left;
-		font-color: red;
-		font-size: 35px;
-	}
-	a {
-		text-decoration: none;
-		color: gray;
+		font-size: 60px;
 	}
 	
-	footer {
-		color: gray;
-		text-decoration: none;
+	
+	
+	
+	#questions{
+		margin: auto;
+		text-align: right;
+		color: white;
+		
 		
 	}
 	
-	questions {
-		margin: 25 auto;
-		text-align: left;
-		color: gray;
-		text_decoration: none;
+	a:link{
+		color:gray;
 	}
-	
-	
-	#other_questions {
-		color: gray;
-		text-decoration: none;
-		display: top;
+	a:visited {
+		color: green;
 	}
-	
-	}
-	
-	
-	
 	
 	
 	
